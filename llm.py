@@ -3,7 +3,7 @@ from pinecone import Pinecone
 from sentence_transformers import SentenceTransformer
 from prompt_template import PromptTemplate
 #setup
-API_KEY = "682f1c01-2320-4587-8355-c634f690d723"
+API_KEY = ""
 INDEX_NAME = "healthcare-chatbot"
 
 

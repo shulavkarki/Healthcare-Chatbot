@@ -13,22 +13,22 @@ Follow these steps to set up and run your project.
 1. Create a new virtual environment using conda:
 
    ```bash
-   conda create -n classification python
+   conda create -n chatbot python
 
 2. Activate the virtual environment:
 
    ```bash
-   conda activate classifcation
+   conda activate chatbot
   
 3. Clone the repository
 
    ```bash
-   git clone https://github.com/shulavkarki/Text-Classifcation-using-BERT
+   git clone https://github.com/shulavkarki/Healthcare-Chatbot.git
 
 4. Navigate to the project repository:
 
    ```bash
-   cd Text-Classifcation-using-BERT
+   cd Healthcare-Chatbot
 
 
 5. Install the required packages, libraries and frameworks:
@@ -36,12 +36,13 @@ Follow these steps to set up and run your project.
     ```bash
     pip install -r requirements.txt
 
-6. Training:
+6. Start the application:
 
    ```bash
-   python train.py
+   ./run_app.sh
 
-7. Evaluation:
 
-   ```bash
-   python evaluate.py
+### Samples
+#markdown for  image in sample_app folder
+![Sample Image](sample_app/chat4.png)
+
