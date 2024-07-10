@@ -4,6 +4,14 @@
 - Anaconda or Miniconda installed
 - Git installed
 
+## Technologies Used
+- Python
+- Selenium
+- Ollama
+- Streamlit
+- Pinecone
+
+
 ## Getting Started
 
 Follow these steps to set up and run your project.
